@@ -25,10 +25,10 @@ namespace PlaywrightDotnetProject.Tests
             ExtentReportHelper.CreateTest(TestContext.CurrentContext.Test.Name);
 
             Playwright = await Microsoft.Playwright.Playwright.CreateAsync();
-            Browser = await Playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
+            Browser = await Playwright.chrome.LaunchAsync(new BrowserTypeLaunchOptions
             {
                 Channel = "chrome",
-                Headless = false,
+                Headless = true,
                 SlowMo = 500
             });
 

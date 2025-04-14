@@ -573,3 +573,4 @@ C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\refint\Playwrightdotnetpro
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.pdb
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.genruntimeconfig.cache
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\ref\Playwrightdotnetproject.dll
+C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.sourcelink.json
