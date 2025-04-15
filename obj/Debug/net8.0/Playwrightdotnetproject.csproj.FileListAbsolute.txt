@@ -567,10 +567,10 @@ C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.Ge
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.AssemblyInfoInputs.cache
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.AssemblyInfo.cs
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.csproj.CoreCompileInputs.cache
+C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.sourcelink.json
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrig.2EBA86E9.Up2Date
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.dll
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\refint\Playwrightdotnetproject.dll
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.pdb
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.genruntimeconfig.cache
 C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\ref\Playwrightdotnetproject.dll
-C:\New folder\NewSignUpSignalCompany\obj\Debug\net8.0\Playwrightdotnetproject.sourcelink.json
