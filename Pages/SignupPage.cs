@@ -202,8 +202,8 @@ namespace PlaywrightDotnetProject.Pages
 
             Console.WriteLine("[Success]: Order placed successfully.");
     }
-           
-public async Task VerifyOrderSummaryAsync()
+
+    public async Task VerifyOrderSummaryAsync()
 {
     // Subscription Info
     var subscriptionLocator = _page.Locator("//*[@id='DivData']/table/tbody/tr[2]/td[1]/p");
